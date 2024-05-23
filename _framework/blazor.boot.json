@@ -1,15 +1,15 @@
 {
   "mainAssemblyName": "Blog",
   "resources": {
-    "hash": "sha256-wHN1yVZxNepQB3guSY/QmzCDx5Y89wiOr0urRvHAP8U=",
+    "hash": "sha256-D3FK+eqjB1h+GO+IHCIo0CBPinTUfVtFDG8rdmO0ZYI=",
     "jsModuleNative": {
-      "dotnet.native.8.0.5.afjcvgu6uc.js": "sha256-boyHe+0RMZDkzBKGhsrnXPhPg3oZ6UqJnTUzngJPjNY="
+      "dotnet.native.8.0.5.snik9yxs01.js": "sha256-6SDvzY8LGDJIBpOtOI7rzY3dnnOFwUJIBDL7wbLdXW0="
     },
     "jsModuleRuntime": {
-      "dotnet.runtime.8.0.5.zganjeccld.js": "sha256-5oi05+Ql/1JzyAphppAHmbRquli4a3/0XLMa8mQDKn8="
+      "dotnet.runtime.8.0.5.mlg7pq8k4y.js": "sha256-5oi05+Ql/1JzyAphppAHmbRquli4a3/0XLMa8mQDKn8="
     },
     "wasmNative": {
-      "dotnet.native.wasm": "sha256-b3QtgAqvT5FoNyYgoEYsdE4zF5C1Is6lhQ8VEkROor8="
+      "dotnet.native.wasm": "sha256-CEhJvqlPNorQordbRTNkMnyOWTEDNEDqSH9osA88q/4="
     },
     "icu": {
       "icudt_CJK.dat": "sha256-SZLtQnRc0JkwqHab0VUVP7T3uBPSeYzxzDnpxPpUnHk=",
